@@ -1,0 +1,21 @@
+What is React?
+Ans : React is a javascript open source front-end library developed by facebook. it aims to hrlp developers create fast user interface and alike application.
+Who made React?
+Ans : Jordan Walke
+What is Babel?
+Ans : React uses ES6 code which is not supported by many Browsers. so Babel convert the ES6 code to code that which is compatible to the browser. it act as a transpiler for react.
+How does Babel convert html code in React into valid code?
+Ans : it is easy to define UI components in React. JSX should not be implemented directly by browsers, but instead requires a compiler to transform it into ECMAScript. This is where Babel comes in
+What is ReactDOM used for? Write an example?
+Ans : ReactDOM is a javascript library that allows react to interact with the DOM(Document Object Model)
+What are the packages that you need to import for react to work with?
+Ans : ReactDOM
+How do you add react to a web application?
+Ans : first of add DOM container to the HTML then add The script Tags then Create a React Component.
+What is React.createElement?
+Ans : It Creates and return the react element of given type.
+What are the three properties that createElement accept?
+Ans : types, props and childrens. 
+What is the meaning of render and root?
+Ans : render means showing the output to the browser.
+	root the html elment where we want to display the output or react component.
